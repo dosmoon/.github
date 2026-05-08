@@ -3,13 +3,11 @@
 
 # dosmoon
 
-> Turning ideas into shipping software with AI coding.
+> Exploring the limitless possibilities of AI coding.
 
-[![Portal](https://img.shields.io/badge/🏠_Studio_Portal-dosmoon.com-a8b5ff?style=for-the-badge)](https://dosmoon.com/)
-[![Research](https://img.shields.io/badge/🔬_Research_Notes-Read-ffa8d8?style=for-the-badge)](https://dosmoon.com/research/)
+### 👉 [**Visit the Studio Portal — dosmoon.com**](https://dosmoon.com/)
 
-dosmoon is an AI coding studio with a long-term focus on creator tools and productivity software.
-We ship both open-source tools and closed-source products — the choice depends on what each project is best suited for.
+[![Portal](https://img.shields.io/badge/🏠_dosmoon.com-Open_Portal-a8b5ff?style=for-the-badge&logoWidth=40)](https://dosmoon.com/)
 
 ## 🚀 Projects
 
@@ -20,8 +18,7 @@ We ship both open-source tools and closed-source products — the choice depends
 
 ## 📚 Resources
 
-- 🌐 [Studio Portal](https://dosmoon.com/) — project index & technical notes
-- 🔬 [Research Notes](https://dosmoon.com/research/) — AI coding practice log
+- 🌐 [Studio Portal](https://dosmoon.com/) — project index, documentation & technical notes
 - 💼 Contact & collaboration: see the portal footer
 
 ---

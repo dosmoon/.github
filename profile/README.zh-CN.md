@@ -3,13 +3,11 @@
 
 # dosmoon
 
-> 用 AI Coding 把想法变成可用的软件。
+> 探索 AI Coding 的无限可能。
 
-[![Portal](https://img.shields.io/badge/🏠_工作室门户-dosmoon.com-a8b5ff?style=for-the-badge)](https://dosmoon.com/)
-[![Research](https://img.shields.io/badge/🔬_研究笔记-阅读-ffa8d8?style=for-the-badge)](https://dosmoon.com/research/)
+### 👉 [**访问工作室门户 — dosmoon.com**](https://dosmoon.com/)
 
-dosmoon 是一间 AI Coding 工作室,围绕创作者工具与生产力软件做长期投入。
-我们既做开源工具,也做闭源产品 —— 选择哪一种,看具体项目最适合什么形态。
+[![Portal](https://img.shields.io/badge/🏠_dosmoon.com-进入门户-a8b5ff?style=for-the-badge&logoWidth=40)](https://dosmoon.com/)
 
 ## 🚀 项目
 
@@ -20,8 +18,7 @@ dosmoon 是一间 AI Coding 工作室,围绕创作者工具与生产力软件做
 
 ## 📚 资源
 
-- 🌐 [工作室门户](https://dosmoon.com/) —— 项目导航、技术笔记
-- 🔬 [研究笔记](https://dosmoon.com/research/) —— AI Coding 实践记录
+- 🌐 [工作室门户](https://dosmoon.com/) —— 项目导航、文档、技术笔记
 - 💼 合作与联系:见门户站底部
 
 ---
