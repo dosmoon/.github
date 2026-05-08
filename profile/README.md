@@ -1,25 +1,28 @@
+<!-- Language switch -->
+**English** | [中文](./README.zh-CN.md)
+
 # dosmoon
 
-> 用 AI Coding 把想法变成可用的软件。
+> Turning ideas into shipping software with AI coding.
 
-[![Portal](https://img.shields.io/badge/🏠_工作室门户-dosmoon.com-a8b5ff?style=for-the-badge)](https://dosmoon.com/)
-[![Research](https://img.shields.io/badge/🔬_研究笔记-阅读-ffa8d8?style=for-the-badge)](https://dosmoon.com/research/)
+[![Portal](https://img.shields.io/badge/🏠_Studio_Portal-dosmoon.com-a8b5ff?style=for-the-badge)](https://dosmoon.com/)
+[![Research](https://img.shields.io/badge/🔬_Research_Notes-Read-ffa8d8?style=for-the-badge)](https://dosmoon.com/research/)
 
-dosmoon 是一间 AI Coding 工作室,围绕创作者工具与生产力软件做长期投入。
-我们既做开源工具,也做闭源产品 —— 选择哪一种,看具体项目最适合什么形态。
+dosmoon is an AI coding studio with a long-term focus on creator tools and productivity software.
+We ship both open-source tools and closed-source products — the choice depends on what each project is best suited for.
 
-## 🚀 项目
+## 🚀 Projects
 
-- **[VideoCraft](https://github.com/dosmoon/VideoCraft)** — 视频处理一体化工具:yt-dlp 下载、Whisper 转写、字幕翻译与合并、多码率转码
-- **[aistack](https://github.com/dosmoon/aistack)** — 本地化 ASR / TTS 服务,OpenAI API 兼容,为上层工具填补 Ollama 之外的语音能力空白
+- **[VideoCraft](https://github.com/dosmoon/VideoCraft)** — End-to-end video processing: yt-dlp downloads, Whisper transcription, subtitle translation & merging, multi-bitrate encoding
+- **[aistack](https://github.com/dosmoon/aistack)** — Local ASR / TTS service with an OpenAI-compatible API, filling the speech-side gap that Ollama leaves on the LLM side
 
-(更多项目陆续上架,见 [工作室门户](https://dosmoon.com/))
+(More projects coming — see the [studio portal](https://dosmoon.com/))
 
-## 📚 资源
+## 📚 Resources
 
-- 🌐 [工作室门户](https://dosmoon.com/) —— 项目导航、技术笔记
-- 🔬 [研究笔记](https://dosmoon.com/research/) —— AI Coding 实践记录
-- 💼 合作与联系:见门户站底部
+- 🌐 [Studio Portal](https://dosmoon.com/) — project index & technical notes
+- 🔬 [Research Notes](https://dosmoon.com/research/) — AI coding practice log
+- 💼 Contact & collaboration: see the portal footer
 
 ---
 
